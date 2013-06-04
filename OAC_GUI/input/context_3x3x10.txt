@@ -1,0 +1,13 @@
+3,3,10
+Leo,Kate,Max
+football,hockey,basketball
+football.kulichki.ru,soccer.ru,footballrussia.ru,nfl.com,khl.ru,russian-hockey.ru,nhl.com,nba.com,basketball.ru,basket.ru
+110
+011
+101
+1011010000
+0000101010
+0110000110
+1111000000
+0000111000
+0000000111
