@@ -1,0 +1,14 @@
+3,4,5
+Leo,Kate,Max
+hockey,movie,balley,soccer
+khl.ru,football.kulichki.ru,kinopoisk.ru,soccer.ru,balley.com
+1101
+0110
+0111
+11110
+00101
+00111
+10000
+00100
+00001
+01010
